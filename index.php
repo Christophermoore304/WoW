@@ -14,9 +14,9 @@ $servername = 'localhost';
 $username = 'userDBhere';
 $password = 'userDBpasshere';
 $schema = 'DBName';
-$apiKey = 'yourBlizzardApiKey';
-$realmName = 'YourRealmName';
-$realmRegion = 'YourRealRegion';
+$apiKey = '';
+$realmName = 'Stormrage';
+$realmRegion = 'NA';
 
 $conn = new mysqli($servername, $username, $password, $schema); $conn->set_charset('utf8');
 if ($conn->connect_error) { die('Connection failed: ' . $conn->connect_error); }
