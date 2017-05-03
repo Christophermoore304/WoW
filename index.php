@@ -14,7 +14,7 @@ $servername = 'localhost';
 $username = 'userDBhere';
 $password = 'userDBpasshere';
 $schema = 'DBName';
-$apiKey = '';
+$apiKey = '24djxsry4cxfhbbe2vgtvs8zsgmsjgpd';
 $realmName = 'Stormrage';
 $realmRegion = 'NA';
 
