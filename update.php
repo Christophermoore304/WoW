@@ -1,7 +1,7 @@
 <?
 $servername = 'https://github.com/Christophermoore304/WoW';
 $username = 'Christophermoore304@gmail.com';
-$password = '$Android7;';
+$password = 'Thbgn13121';
 $schema = 'DBName';
 $apiKey = '24djxsry4cxfhbbe2vgtvs8zsgmsjgpd';
 $realmName = 'Stormrage';
