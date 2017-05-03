@@ -10,9 +10,9 @@
 
 // in this area your need to fill all variables
 
-$servername = 'localhost';
-$username = 'userDBhere';
-$password = 'userDBpasshere';
+$servername = 'https://github.com/Christophermoore304/WoW';
+$username = 'Christophermoore304@gmail.com';
+$password = '$Android7;';
 $schema = 'DBName';
 $apiKey = '24djxsry4cxfhbbe2vgtvs8zsgmsjgpd';
 $realmName = 'Stormrage';
