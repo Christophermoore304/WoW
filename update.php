@@ -1,11 +1,11 @@
 <?
-$servername = 'localhost';
-$username = 'userDBhere';
-$password = 'userDBpasshere';
+$servername = 'https://github.com/Christophermoore304/WoW';
+$username = 'Christophermoore304@gmail.com';
+$password = '$Android7;';
 $schema = 'DBName';
-$apiKey = 'yourBlizzardApiKey';
-$realmName = 'YourRealmName';
-$realmRegion = 'YourRealRegion';
+$apiKey = '24djxsry4cxfhbbe2vgtvs8zsgmsjgpd';
+$realmName = 'Stormrage';
+$realmRegion = 'NA';
 
 $conn = new mysqli($servername, $username, $password, $schema); $conn->set_charset('utf8');
  if ($conn->connect_error) { die('Connection failed: ' . $conn->connect_error); }
